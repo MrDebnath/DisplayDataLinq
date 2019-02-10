@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{CB940D56-77CF-44DC-B08B-9A78898D400E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DisplayDataLinq/Program.cs">
+    <Files>
+      <File FileName="DisplayDataLinq/Program.cs" Line="18" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DisplayDataLinq PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
